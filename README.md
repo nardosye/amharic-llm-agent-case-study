@@ -4,7 +4,7 @@ Public documentation and selected experiment evidence for **Beyond Code Generati
 
 ## Read the case study
 
-- **[Main article](docs/agent-assisted-amharic-llm-case-study.md)**: agent coordination, a rejected dataset optimization, failure recovery, GPU execution, and model evaluation.
+- **[Main article on Hugging Face](https://huggingface.co/blog/Nardosye/fine-tuning-qwen-for-amharic-with-github-copilot-w)**: agent coordination, a rejected dataset optimization, failure recovery, GPU execution, and model evaluation. [Markdown snapshot](docs/agent-assisted-amharic-llm-case-study.md).
 - **[Companion appendix](docs/agent-assisted-amharic-llm-case-study-appendix.md)**: evidence index, artifact identities, and what public readers can verify.
 - **[Selected review and failure records](docs/review-evidence.md)**: curated observations and corrections, with explicit provenance limits.
 - **[Experiment reports](reports/)**: nine original metadata-only reports and one clearly labeled split-comparison extract.

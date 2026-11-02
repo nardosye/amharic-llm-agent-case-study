@@ -8,11 +8,11 @@
       "sha256": "c3c9d505f0490ba1f9e7a51131457c444fb311f675a1d1af9dc8efa1d57efb8e"
     },
     "README.md": {
-      "bytes": 2758,
+      "bytes": 2884,
       "provenance": {
         "kind": "publication_document"
       },
-      "sha256": "77f65c5a99f0b33c36ce355404e8b69c088cd3dd5ba2db1e49d852cb865ad954"
+      "sha256": "bfdb3e8d6770777838d5ccb3d5927948f2f296eeb84c63bd536ef4452379aaf1"
     },
     "docs/agent-assisted-amharic-llm-case-study-appendix.md": {
       "bytes": 8244,
