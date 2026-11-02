@@ -22,13 +22,13 @@
       "sha256": "b53cdae0cf0834dc84103ffd40f8bec3b20a0ba75a750cfac183f555c00daa97"
     },
     "docs/agent-assisted-amharic-llm-case-study.md": {
-      "bytes": 23545,
+      "bytes": 22953,
       "provenance": {
         "kind": "adapted_publication_document",
         "source_relative_path": "docs/agent-assisted-amharic-llm-case-study.md",
         "source_sha256": "b076b1fc117af9dfa1a2bb1cfd6fb466a1e3921a03b58d14f7a9d621609feb37"
       },
-      "sha256": "d286275047792db341ee5b7699170b45b6d3798a18f223d478ad078aa10dbed0"
+      "sha256": "b66f8278caa51e72a241deb78f2fca3e66c12832cf2531e49b19f7f5acabbf7d"
     },
     "docs/agent-profiles/amharic-dataset-preparer.agent.md": {
       "bytes": 6458,
@@ -151,7 +151,7 @@
       "sha256": "dd164a0a9b1ce39ef16b1bd71a6b354ff2aaf866c4ab0b361c02dd83683e5b72"
     }
   },
-  "generated_at": "2026-11-02T03:05:22.543982+00:00",
+  "generated_at": "2026-11-02T03:09:09.432156+00:00",
   "manifest_self_excluded": true,
   "repository": "https://github.com/nardosye/amharic-llm-agent-case-study",
   "schema_version": 1,

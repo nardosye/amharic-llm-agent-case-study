@@ -2,7 +2,7 @@
 
 *An engineering case study of agent coordination, independent review, failure recovery, and reproducible model training.*
 
-**Public documentation draft. Evidence cutoff: November 1, 2026.** This article describes completed experiments, not a released model or an accepted Hugging Face Blog submission. Additional training on the preserved frozen data is future work.
+**Evidence cutoff: November 1, 2026.**
 
 ## 1. Introduction: generating code is not the same as producing evidence
 
@@ -238,8 +238,8 @@ Tests written by the implementation agent can faithfully encode the wrong assump
 
 Limitations remain substantial: one project, no non-agent control, potentially correlated model errors, limited language evaluation, unresolved source-use questions, and no broad independent final test. Checksums prove identity, not quality; separate agent contexts do not prove independent reasoning.
 
-The [companion appendix](agent-assisted-amharic-llm-case-study-appendix.md) maps claims to public reports, archived profiles, and recovery records in this [documentation repository](https://github.com/nardosye/amharic-llm-agent-case-study). Readers can inspect selected evidence and recompute published aggregate metrics. The implementation, corpus, weights, and cloud artifacts remain private, so this snapshot does not permit complete experiment re-execution. Model/dataset cards require separate release work. This is a Hugging Face-compatible article draft, not an accepted official Hugging Face Blog submission.
+The [companion appendix](agent-assisted-amharic-llm-case-study-appendix.md) maps claims to public reports, archived profiles, and recovery records in this [documentation repository](https://github.com/nardosye/amharic-llm-agent-case-study). Readers can inspect selected evidence and recompute published aggregate metrics. The implementation, corpus, weights, and cloud artifacts remain private, so this snapshot does not permit complete experiment re-execution.
 
-Further training on the retained frozen corpus is planned, not executed here. It will be a new experiment with its own recipe, evaluation design, and bounded execution decision; this article preserves the current result rather than predicting that more tokens will solve coherence.
+Further training on the frozen corpus is planned.
 
 The central lesson is not that agents can automate everything. It is that their proposals become useful engineering evidence only when objections can be reproduced, failures remain visible, and the final claim survives its acceptance criteria.
