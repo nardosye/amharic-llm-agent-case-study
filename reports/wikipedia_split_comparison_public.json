@@ -1,0 +1,229 @@
+{
+  "candidate_dataset_written": false,
+  "input_dataset_id": "7e502c14d3b2f7ee0fe6c5a583c5a1927529c81b36951655c8a3dd604b6cff01",
+  "input_token_counts_recomputed": true,
+  "omitted": "Source bodies, rejection contexts, review queues, per-article assignments and paragraph examples are not included.",
+  "recommendation": {
+    "candidate_policy": "seeded_midpoint_relative",
+    "rationale": "Compare token balance together with length coverage and contributor concentration.",
+    "remaining_review": [
+      "Stub and markup decisions require an explicit quality policy.",
+      "Near-duplicate and semantic leakage are not measured by this command.",
+      "Fluent-speaker quality and factual judgments remain unverified.",
+      "No cross-source deduplication; Bible and Wikipedia remain separate."
+    ],
+    "status": "proposal only; not an approved frozen benchmark"
+  },
+  "selection_and_passage_boundaries_changed": false,
+  "source_report_sha256": "8c3aacbe456816fc1d9aa34a3bdc731ef6421cec4e3def4b841593290ec60b6d",
+  "split_comparison": {
+    "historical_articles": {
+      "exact_passage_cross_split_strings": 0,
+      "sizes": {
+        "test": {
+          "article_passage_token_distribution": {
+            "count": 13,
+            "max": 31962,
+            "mean": 3044.769230769231,
+            "min": 40,
+            "p50": 448,
+            "p90": 1759,
+            "p95": 31962,
+            "p99": 31962,
+            "total": 39582
+          },
+          "articles": 13,
+          "largest_article_id": "1840",
+          "largest_article_token_share": 0.8074882522358647,
+          "multi_passage_articles": 6,
+          "passages": 101,
+          "passages_at_least_500_tokens": 37,
+          "token_fraction": 0.20252970251435237,
+          "tokens": 39582
+        },
+        "train": {
+          "article_passage_token_distribution": {
+            "count": 230,
+            "max": 26457,
+            "mean": 666.3391304347826,
+            "min": 10,
+            "p50": 146,
+            "p90": 1217,
+            "p95": 2062,
+            "p99": 12023,
+            "total": 153258
+          },
+          "articles": 230,
+          "largest_article_id": "49119",
+          "largest_article_token_share": 0.17263046627255998,
+          "multi_passage_articles": 53,
+          "passages": 505,
+          "passages_at_least_500_tokens": 86,
+          "token_fraction": 0.7841770791760047,
+          "tokens": 153258
+        },
+        "validation": {
+          "article_passage_token_distribution": {
+            "count": 13,
+            "max": 987,
+            "mean": 199.84615384615384,
+            "min": 36,
+            "p50": 91,
+            "p90": 376,
+            "p95": 987,
+            "p99": 987,
+            "total": 2598
+          },
+          "articles": 13,
+          "largest_article_id": "16343",
+          "largest_article_token_share": 0.37990762124711314,
+          "multi_passage_articles": 1,
+          "passages": 14,
+          "passages_at_least_500_tokens": 1,
+          "token_fraction": 0.013293218309642956,
+          "tokens": 2598
+        }
+      },
+      "token_fraction_absolute_error": 0.30505940502870477
+    },
+    "largest_first_absolute": {
+      "exact_passage_cross_split_strings": 0,
+      "sizes": {
+        "test": {
+          "article_passage_token_distribution": {
+            "count": 64,
+            "max": 472,
+            "mean": 152.6875,
+            "min": 10,
+            "p50": 114,
+            "p90": 319,
+            "p95": 425,
+            "p99": 472,
+            "total": 9772
+          },
+          "articles": 64,
+          "largest_article_id": "22724",
+          "largest_article_token_share": 0.048301268931641425,
+          "multi_passage_articles": 0,
+          "passages": 64,
+          "passages_at_least_500_tokens": 0,
+          "token_fraction": 0.05000051167122054,
+          "tokens": 9772
+        },
+        "train": {
+          "article_passage_token_distribution": {
+            "count": 128,
+            "max": 31962,
+            "mean": 1374.171875,
+            "min": 11,
+            "p50": 378,
+            "p90": 2062,
+            "p95": 3877,
+            "p99": 26457,
+            "total": 175894
+          },
+          "articles": 128,
+          "largest_article_id": "1840",
+          "largest_article_token_share": 0.1817117127360797,
+          "multi_passage_articles": 60,
+          "passages": 492,
+          "passages_at_least_500_tokens": 124,
+          "token_fraction": 0.8999989766575589,
+          "tokens": 175894
+        },
+        "validation": {
+          "article_passage_token_distribution": {
+            "count": 64,
+            "max": 473,
+            "mean": 152.6875,
+            "min": 12,
+            "p50": 116,
+            "p90": 327,
+            "p95": 385,
+            "p99": 473,
+            "total": 9772
+          },
+          "articles": 64,
+          "largest_article_id": "12623",
+          "largest_article_token_share": 0.048403602128530496,
+          "multi_passage_articles": 0,
+          "passages": 64,
+          "passages_at_least_500_tokens": 0,
+          "token_fraction": 0.05000051167122054,
+          "tokens": 9772
+        }
+      },
+      "token_fraction_absolute_error": 2.0466848821981687e-06
+    },
+    "seeded_midpoint_relative": {
+      "exact_passage_cross_split_strings": 0,
+      "sizes": {
+        "test": {
+          "article_passage_token_distribution": {
+            "count": 48,
+            "max": 1590,
+            "mean": 205.79166666666666,
+            "min": 28,
+            "p50": 81,
+            "p90": 463,
+            "p95": 800,
+            "p99": 1590,
+            "total": 9878
+          },
+          "articles": 48,
+          "largest_article_id": "14324",
+          "largest_article_token_share": 0.16096375784571776,
+          "multi_passage_articles": 4,
+          "passages": 56,
+          "passages_at_least_500_tokens": 2,
+          "token_fraction": 0.0505428831649935,
+          "tokens": 9878
+        },
+        "train": {
+          "article_passage_token_distribution": {
+            "count": 163,
+            "max": 31962,
+            "mean": 1078.5766871165645,
+            "min": 10,
+            "p50": 218,
+            "p90": 1759,
+            "p95": 3147,
+            "p99": 26457,
+            "total": 175808
+          },
+          "articles": 163,
+          "largest_article_id": "1840",
+          "largest_article_token_share": 0.1818006006552603,
+          "multi_passage_articles": 50,
+          "passages": 510,
+          "passages_at_least_500_tokens": 119,
+          "token_fraction": 0.8995589394078941,
+          "tokens": 175808
+        },
+        "validation": {
+          "article_passage_token_distribution": {
+            "count": 45,
+            "max": 1480,
+            "mean": 216.7111111111111,
+            "min": 12,
+            "p50": 127,
+            "p90": 621,
+            "p95": 881,
+            "p99": 1480,
+            "total": 9752
+          },
+          "articles": 45,
+          "largest_article_id": "31252",
+          "largest_article_token_share": 0.15176374077112387,
+          "multi_passage_articles": 6,
+          "passages": 54,
+          "passages_at_least_500_tokens": 3,
+          "token_fraction": 0.04989817742711244,
+          "tokens": 9752
+        }
+      },
+      "token_fraction_absolute_error": 0.0010857663299869771
+    }
+  },
+  "status": "public_metadata_extract_not_full_original_report"
+}

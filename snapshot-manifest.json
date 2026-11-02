@@ -1,0 +1,159 @@
+{
+  "files": {
+    ".gitignore": {
+      "bytes": 89,
+      "provenance": {
+        "kind": "publication_document"
+      },
+      "sha256": "c3c9d505f0490ba1f9e7a51131457c444fb311f675a1d1af9dc8efa1d57efb8e"
+    },
+    "README.md": {
+      "bytes": 2928,
+      "provenance": {
+        "kind": "publication_document"
+      },
+      "sha256": "bd6a9ef6150cd71d9cfb8e184596244fdae410ad36593d1a6a46ad1421925f5a"
+    },
+    "docs/agent-assisted-amharic-llm-case-study-appendix.md": {
+      "bytes": 8244,
+      "provenance": {
+        "kind": "publication_document"
+      },
+      "sha256": "b53cdae0cf0834dc84103ffd40f8bec3b20a0ba75a750cfac183f555c00daa97"
+    },
+    "docs/agent-assisted-amharic-llm-case-study.md": {
+      "bytes": 23545,
+      "provenance": {
+        "kind": "adapted_publication_document",
+        "source_relative_path": "docs/agent-assisted-amharic-llm-case-study.md",
+        "source_sha256": "b076b1fc117af9dfa1a2bb1cfd6fb466a1e3921a03b58d14f7a9d621609feb37"
+      },
+      "sha256": "d286275047792db341ee5b7699170b45b6d3798a18f223d478ad078aa10dbed0"
+    },
+    "docs/agent-profiles/amharic-dataset-preparer.agent.md": {
+      "bytes": 6458,
+      "provenance": {
+        "kind": "archived_profile_exact_copy",
+        "source_relative_path": ".github/agents/amharic-dataset-preparer.agent.md"
+      },
+      "sha256": "619df9dc428c019fba5d5b32ad574ef9cee65fae81249e445921562ffd8f1552"
+    },
+    "docs/agent-profiles/amharic-material-reviewer.agent.md": {
+      "bytes": 4438,
+      "provenance": {
+        "kind": "archived_profile_exact_copy",
+        "source_relative_path": ".github/agents/amharic-material-reviewer.agent.md"
+      },
+      "sha256": "7f90ad88c72ff8bc65c6ca3f99031e5f177d4e05f088c6b01c4f5ca72e9b4328"
+    },
+    "docs/agent-profiles/experiment-reviewer.agent.md": {
+      "bytes": 3255,
+      "provenance": {
+        "kind": "archived_profile_exact_copy",
+        "source_relative_path": ".github/agents/experiment-reviewer.agent.md"
+      },
+      "sha256": "910856b420509d8740689dc4105befa1226b011142256b9c15d9d44b1dcf4297"
+    },
+    "docs/agent-profiles/training-coordinator.agent.md": {
+      "bytes": 3754,
+      "provenance": {
+        "kind": "archived_profile_exact_copy",
+        "source_relative_path": ".github/agents/training-coordinator.agent.md"
+      },
+      "sha256": "5aab8be2c26f4dab0fd196956560113e272c5c21146e0461eeace30137219984"
+    },
+    "docs/review-evidence.md": {
+      "bytes": 7128,
+      "provenance": {
+        "kind": "publication_document"
+      },
+      "sha256": "9ae7866cef36a2ea26bb6d8641fe6f0002068fbdda46681d2cb0ae596c0090a7"
+    },
+    "reports/amharic_five_million_pilot_v1_execution.json": {
+      "bytes": 1777,
+      "provenance": {
+        "kind": "original_report_exact_copy",
+        "source_relative_path": "reports/amharic_five_million_pilot_v1_execution.json"
+      },
+      "sha256": "a208d0dec805e5f819215156abe8ebbf0bd7bf53aa399701df6e27f3e2b7f633"
+    },
+    "reports/amharic_five_million_pilot_v1_human_review.json": {
+      "bytes": 6386,
+      "provenance": {
+        "kind": "original_report_exact_copy",
+        "source_relative_path": "reports/amharic_five_million_pilot_v1_human_review.json"
+      },
+      "sha256": "5bb27af65a5a454e1454fc07144855a36a98a544c7f79befe7ed534f56722b71"
+    },
+    "reports/amharic_five_million_pilot_v1_results.json": {
+      "bytes": 1523,
+      "provenance": {
+        "kind": "original_report_exact_copy",
+        "source_relative_path": "reports/amharic_five_million_pilot_v1_results.json"
+      },
+      "sha256": "36c661d068634b184b5a46e8bd735c454a29cd42e7baaf1748b1742e6a7c0bdf"
+    },
+    "reports/amharic_full_corpus_v1_calibration_execution.json": {
+      "bytes": 714,
+      "provenance": {
+        "kind": "original_report_exact_copy",
+        "source_relative_path": "reports/amharic_full_corpus_v1_calibration_execution.json"
+      },
+      "sha256": "083abbe1dd788a0064f232d7cf7868cba7a016d6b2fdca8f9c618cfe6aad5a46"
+    },
+    "reports/amharic_full_corpus_v1_calibration_v2_execution.json": {
+      "bytes": 769,
+      "provenance": {
+        "kind": "original_report_exact_copy",
+        "source_relative_path": "reports/amharic_full_corpus_v1_calibration_v2_execution.json"
+      },
+      "sha256": "66f9d38355425cd45e103e166795a358c0574684bab88a92c4742d3814962358"
+    },
+    "reports/amharic_full_corpus_v1_calibration_v2_metrics.json": {
+      "bytes": 57229,
+      "provenance": {
+        "kind": "original_report_exact_copy",
+        "source_relative_path": "reports/amharic_full_corpus_v1_calibration_v2_metrics.json"
+      },
+      "sha256": "f4afbc758cc819eff411843879cf6903ec577f4021b95308ec1a85dff3623cdd"
+    },
+    "reports/amharic_pilot_perplexity_v1_execution.json": {
+      "bytes": 845,
+      "provenance": {
+        "kind": "original_report_exact_copy",
+        "source_relative_path": "reports/amharic_pilot_perplexity_v1_execution.json"
+      },
+      "sha256": "e97e91e8f89a3588a2fceac72a8b46aa8bdcf6165d71b1ec63173476affb1925"
+    },
+    "reports/amharic_pilot_perplexity_v1_results.json": {
+      "bytes": 60886,
+      "provenance": {
+        "kind": "original_report_exact_copy",
+        "source_relative_path": "reports/amharic_pilot_perplexity_v1_results.json"
+      },
+      "sha256": "14be2f372c08d44742708bfaef305b7aad8ce2e692e152dcfcd5a8e44c6f9c4e"
+    },
+    "reports/wikipedia_review_verification.json": {
+      "bytes": 477,
+      "provenance": {
+        "kind": "original_report_exact_copy",
+        "source_relative_path": "reports/wikipedia_review_verification.json"
+      },
+      "sha256": "742443800f008b0877cb731adb21282f0ee3e972b199bc9dbd3582ff9c6a23be"
+    },
+    "reports/wikipedia_split_comparison_public.json": {
+      "bytes": 7426,
+      "provenance": {
+        "kind": "derived_metadata_extract",
+        "source_relative_path": "reports/wikipedia_review.json",
+        "source_sha256": "8c3aacbe456816fc1d9aa34a3bdc731ef6421cec4e3def4b841593290ec60b6d"
+      },
+      "sha256": "dd164a0a9b1ce39ef16b1bd71a6b354ff2aaf866c4ab0b361c02dd83683e5b72"
+    }
+  },
+  "generated_at": "2026-11-02T02:51:50.068307+00:00",
+  "manifest_self_excluded": true,
+  "repository": "https://github.com/nardosye/amharic-llm-agent-case-study",
+  "schema_version": 1,
+  "scope": "User-authorized public documentation and selected metadata only; not a model, dataset, implementation, or private-history release."
+}

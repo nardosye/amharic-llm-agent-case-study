@@ -1,0 +1,22 @@
+{
+  "billing_note": "Final invoice not available from job status; use provider billable durations.",
+  "created_at": "2026-11-01 16:58:33.427000+00:00",
+  "finished_at": "2026-11-01 16:59:30.643000+00:00",
+  "flavor": "a100-large",
+  "job_id": "6ae76fb90e0338d1bb7d8797",
+  "metrics_retrieved": false,
+  "observed_at": "2026-11-01T16:59:31.197360+00:00",
+  "output_files": [
+    ".gitattributes",
+    "submission-reservation.json"
+  ],
+  "provider_durations_seconds": {
+    "running": 50,
+    "scheduling": 6,
+    "total": 57
+  },
+  "resubmission_authorized": false,
+  "stage": "ERROR",
+  "started_at": "2026-11-01 16:58:40.362000+00:00",
+  "url": "https://huggingface.co/jobs/Nardosye/6ae76fb90e0338d1bb7d8797"
+}

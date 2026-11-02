@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+__pycache__/
+.venv/
+data/
+outputs/
+*.pdf
+*.safetensors
+*.bin
+*.log

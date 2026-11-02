@@ -1,0 +1,20 @@
+{
+  "authorized_preparer_sha256": "4b7e290cc5af528bee581c44f18c69010871d0e900053b86cfc121f9814ae62b",
+  "collector_sha256": "998bedb898755241e55974162a33601a2d5267f304e2ccb32ecb9f843dc7d776",
+  "created_at": "2026-11-01 23:01:55.812000+00:00",
+  "finished_at": "2026-11-01 23:03:58.394000+00:00",
+  "flavor": "a100-large",
+  "job_id": "6ae7c4e30e0338d1bb7dab1f",
+  "metrics_sha256": "14be2f372c08d44742708bfaef305b7aad8ce2e692e152dcfcd5a8e44c6f9c4e",
+  "observed_at": "2026-11-01T23:08:26.222854+00:00",
+  "output_revision": "92b5ba14f9ca7c3b242981c0f72d99dea90583ad",
+  "provider_durations_seconds": {
+    "running": 115,
+    "scheduling": 7,
+    "total": 122
+  },
+  "results_verified": true,
+  "stage": "COMPLETED",
+  "started_at": "2026-11-01 23:02:02.813000+00:00",
+  "url": "https://huggingface.co/jobs/Nardosye/6ae7c4e30e0338d1bb7dab1f"
+}

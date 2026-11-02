@@ -1,0 +1,228 @@
+{
+  "amharic_gate_passed": false,
+  "amharic_including_exposed_pair_descriptive_sensitivity": {
+    "adapted_decisive_preference_95_wilson": {
+      "fraction": 0.5357142857142857,
+      "lower": 0.42984715937637186,
+      "total": 84,
+      "upper": 0.6384577171654381,
+      "wins": 45
+    },
+    "adapted_minus_original_mean": {
+      "coherence": 0.07777777777777795,
+      "grammar": 0.08888888888888902,
+      "nonrepetition": 0.07777777777777795,
+      "relevance": 0.06666666666666687
+    },
+    "dimension_means": {
+      "adapted": {
+        "coherence": 2.588888888888889,
+        "grammar": 3.188888888888889,
+        "nonrepetition": 3.588888888888889,
+        "relevance": 3.2
+      },
+      "original": {
+        "coherence": 2.511111111111111,
+        "grammar": 3.1,
+        "nonrepetition": 3.511111111111111,
+        "relevance": 3.1333333333333333
+      }
+    },
+    "exclusions": {},
+    "included_pairs": 90,
+    "paired_dimension_changes": {
+      "coherence": {
+        "higher": 35,
+        "lower": 30,
+        "same": 25
+      },
+      "grammar": {
+        "higher": 32,
+        "lower": 24,
+        "same": 34
+      },
+      "nonrepetition": {
+        "higher": 26,
+        "lower": 23,
+        "same": 41
+      },
+      "relevance": {
+        "higher": 38,
+        "lower": 32,
+        "same": 20
+      }
+    },
+    "planned_pairs": 90,
+    "preferences": {
+      "adapted": 45,
+      "neither": 5,
+      "original": 39,
+      "tie": 1
+    },
+    "unconfirmed_prompt_naturalness_ids": []
+  },
+  "analyzer_sha256": "fbbe1d4c349dff0897deb0f89de9eb522c3fd27364462522c219a864100146e8",
+  "comparison_sha256": "696f94021bf4f5bfb846e64cd0b8dcffe27e4d90aeec3b7e460678aa5e37408a",
+  "english_lower_dimension_mean_flags": [],
+  "general_amharic_improvement_established": false,
+  "groups": {
+    "am": {
+      "adapted_decisive_preference_95_wilson": {
+        "fraction": 0.5421686746987951,
+        "lower": 0.435500430453311,
+        "total": 83,
+        "upper": 0.6451062301792936,
+        "wins": 45
+      },
+      "adapted_minus_original_mean": {
+        "coherence": 0.0786516853932584,
+        "grammar": 0.101123595505618,
+        "nonrepetition": 0.0786516853932584,
+        "relevance": 0.06741573033707882
+      },
+      "dimension_means": {
+        "adapted": {
+          "coherence": 2.595505617977528,
+          "grammar": 3.202247191011236,
+          "nonrepetition": 3.5842696629213484,
+          "relevance": 3.202247191011236
+        },
+        "original": {
+          "coherence": 2.5168539325842696,
+          "grammar": 3.101123595505618,
+          "nonrepetition": 3.50561797752809,
+          "relevance": 3.134831460674157
+        }
+      },
+      "exclusions": {
+        "p001": "conservative_format_preview_exposure"
+      },
+      "included_pairs": 89,
+      "paired_dimension_changes": {
+        "coherence": {
+          "higher": 35,
+          "lower": 30,
+          "same": 24
+        },
+        "grammar": {
+          "higher": 32,
+          "lower": 23,
+          "same": 34
+        },
+        "nonrepetition": {
+          "higher": 26,
+          "lower": 23,
+          "same": 40
+        },
+        "relevance": {
+          "higher": 38,
+          "lower": 32,
+          "same": 19
+        }
+      },
+      "planned_pairs": 90,
+      "preferences": {
+        "adapted": 45,
+        "neither": 5,
+        "original": 38,
+        "tie": 1
+      },
+      "unconfirmed_prompt_naturalness_ids": []
+    },
+    "en": {
+      "adapted_decisive_preference_95_wilson": {
+        "fraction": 0.7777777777777778,
+        "lower": 0.452588969106989,
+        "total": 9,
+        "upper": 0.9367748928821532,
+        "wins": 7
+      },
+      "adapted_minus_original_mean": {
+        "coherence": 0.5,
+        "grammar": 0.40000000000000036,
+        "nonrepetition": 0.6999999999999997,
+        "relevance": 0.09999999999999964
+      },
+      "dimension_means": {
+        "adapted": {
+          "coherence": 3.3,
+          "grammar": 4.7,
+          "nonrepetition": 3.3,
+          "relevance": 3.3
+        },
+        "original": {
+          "coherence": 2.8,
+          "grammar": 4.3,
+          "nonrepetition": 2.6,
+          "relevance": 3.2
+        }
+      },
+      "exclusions": {},
+      "included_pairs": 10,
+      "paired_dimension_changes": {
+        "coherence": {
+          "higher": 6,
+          "lower": 2,
+          "same": 2
+        },
+        "grammar": {
+          "higher": 5,
+          "lower": 1,
+          "same": 4
+        },
+        "nonrepetition": {
+          "higher": 5,
+          "lower": 1,
+          "same": 4
+        },
+        "relevance": {
+          "higher": 4,
+          "lower": 2,
+          "same": 4
+        }
+      },
+      "planned_pairs": 10,
+      "preferences": {
+        "adapted": 7,
+        "neither": 1,
+        "original": 2,
+        "tie": 0
+      },
+      "unconfirmed_prompt_naturalness_ids": [
+        "p091",
+        "p092",
+        "p093",
+        "p094",
+        "p095",
+        "p096",
+        "p097",
+        "p098",
+        "p099",
+        "p100"
+      ]
+    }
+  },
+  "key_sha256": "fe76706b4f948d9f9a5bb7019860f1b69b8950b5a78d363cfef73a3783d96fcd",
+  "limitations": [
+    "Assistant-authored exploratory prompts, not a pretraining-independent benchmark.",
+    "One sampled continuation per model per prompt and one rating set per reviewer.",
+    "Wilson interval describes decisive preferences here, not global fluency or rater reliability.",
+    "Dimension means include natural gradable ties and neither, not just winning outputs.",
+    "AI ratings are separate descriptive evidence, not human scores.",
+    "English controls and any lower dimension means require explicit regression interpretation.",
+    "The exposed p001 case is conservatively excluded from the primary comparison."
+  ],
+  "per_prompt_identity_mapping_published": false,
+  "prespecified_amharic_gate": {
+    "adapted_at_least_60_percent_decisive_preference": false,
+    "at_least_60_natural_decisive_amharic_pairs": true,
+    "human_ratings": true,
+    "no_worse_amharic_dimension_means": true,
+    "two_sided_95_wilson_lower_bound_above_50_percent": false
+  },
+  "ratings_validated_before_key_read": true,
+  "reviewer_kind": "human",
+  "schema_version": 1,
+  "source_ratings_sha256": "1dbfa2bdf00bbc8a3092a32de5b4e0dcaa5a5ab7aaf2494e63d26bc61d11aa31",
+  "status": "scored_review_not_general_fluency_certification"
+}

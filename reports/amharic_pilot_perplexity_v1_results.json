@@ -1,0 +1,2042 @@
+{
+  "adapted": {
+    "documents": [
+      {
+        "cross_entropy_nats": 1.234979712444803,
+        "document_id": "wikipedia:10425",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 227.23626708984375,
+        "perplexity": 3.438308765118685,
+        "scored_tokens": 184
+      },
+      {
+        "cross_entropy_nats": 1.1233896694984393,
+        "document_id": "wikipedia:11349",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 989.706298828125,
+        "perplexity": 3.0752606733861274,
+        "scored_tokens": 881
+      },
+      {
+        "cross_entropy_nats": 0.9256136736744773,
+        "document_id": "wikipedia:12254",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 1306.0408935546875,
+        "perplexity": 2.5234163394791476,
+        "scored_tokens": 1411
+      },
+      {
+        "cross_entropy_nats": 2.055331791672751,
+        "document_id": "wikipedia:12989",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 219.92050170898438,
+        "perplexity": 7.809428546190748,
+        "scored_tokens": 107
+      },
+      {
+        "cross_entropy_nats": 1.0224466575766509,
+        "document_id": "wikipedia:14324",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 1625.690185546875,
+        "perplexity": 2.7799881290753574,
+        "scored_tokens": 1590
+      },
+      {
+        "cross_entropy_nats": 1.7496067495907055,
+        "document_id": "wikipedia:14851",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 118.97325897216797,
+        "perplexity": 5.752340121052552,
+        "scored_tokens": 68
+      },
+      {
+        "cross_entropy_nats": 1.9319375021415843,
+        "document_id": "wikipedia:15169",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 110.12043762207031,
+        "perplexity": 6.90287162210072,
+        "scored_tokens": 57
+      },
+      {
+        "cross_entropy_nats": 1.3889268536433996,
+        "document_id": "wikipedia:15254",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 297.2303466796875,
+        "perplexity": 4.010543842297962,
+        "scored_tokens": 214
+      },
+      {
+        "cross_entropy_nats": 1.7604342008891858,
+        "document_id": "wikipedia:15341",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 66.89649963378906,
+        "perplexity": 5.814961707877494,
+        "scored_tokens": 38
+      },
+      {
+        "cross_entropy_nats": 0.9973844151918579,
+        "document_id": "wikipedia:15778",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 293.23101806640625,
+        "perplexity": 2.7111812219716125,
+        "scored_tokens": 294
+      },
+      {
+        "cross_entropy_nats": 1.975496385918289,
+        "document_id": "wikipedia:15992",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 120.50527954101562,
+        "perplexity": 7.210197806333879,
+        "scored_tokens": 61
+      },
+      {
+        "cross_entropy_nats": 1.6015484149639423,
+        "document_id": "wikipedia:16618",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 145.74090576171875,
+        "perplexity": 4.960707714651567,
+        "scored_tokens": 91
+      },
+      {
+        "cross_entropy_nats": 2.0639846324920654,
+        "document_id": "wikipedia:17277",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 132.0950164794922,
+        "perplexity": 7.87729548576127,
+        "scored_tokens": 64
+      },
+      {
+        "cross_entropy_nats": 1.249252446492513,
+        "document_id": "wikipedia:17577",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 299.8205871582031,
+        "perplexity": 3.4877347143637616,
+        "scored_tokens": 240
+      },
+      {
+        "cross_entropy_nats": 1.1632211524319935,
+        "document_id": "wikipedia:19435",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 96.54735565185547,
+        "perplexity": 3.2002251043213223,
+        "scored_tokens": 83
+      },
+      {
+        "cross_entropy_nats": 1.783231768691749,
+        "document_id": "wikipedia:19529",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 101.64421081542969,
+        "perplexity": 5.949051342982654,
+        "scored_tokens": 57
+      },
+      {
+        "cross_entropy_nats": 1.6386171976725261,
+        "document_id": "wikipedia:19576",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 108.14873504638672,
+        "perplexity": 5.1480458582724005,
+        "scored_tokens": 66
+      },
+      {
+        "cross_entropy_nats": 1.642364501953125,
+        "document_id": "wikipedia:20314",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 126.46206665039062,
+        "perplexity": 5.167373342919961,
+        "scored_tokens": 77
+      },
+      {
+        "cross_entropy_nats": 1.9530611905184658,
+        "document_id": "wikipedia:20389",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 128.90203857421875,
+        "perplexity": 7.050236698518134,
+        "scored_tokens": 66
+      },
+      {
+        "cross_entropy_nats": 1.8797711569165427,
+        "document_id": "wikipedia:20390",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 118.42558288574219,
+        "perplexity": 6.552005309518705,
+        "scored_tokens": 63
+      },
+      {
+        "cross_entropy_nats": 1.614159527946921,
+        "document_id": "wikipedia:20440",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 82.32213592529297,
+        "perplexity": 5.023663899518753,
+        "scored_tokens": 51
+      },
+      {
+        "cross_entropy_nats": 1.1229214584618283,
+        "document_id": "wikipedia:21061",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 128.01304626464844,
+        "perplexity": 3.0738211394275337,
+        "scored_tokens": 114
+      },
+      {
+        "cross_entropy_nats": 1.0244568333481296,
+        "document_id": "wikipedia:21063",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 135.22830200195312,
+        "perplexity": 2.7855820143200667,
+        "scored_tokens": 132
+      },
+      {
+        "cross_entropy_nats": 1.0342753010411416,
+        "document_id": "wikipedia:21292",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 128.25013732910156,
+        "perplexity": 2.8130668701183152,
+        "scored_tokens": 124
+      },
+      {
+        "cross_entropy_nats": 1.2430978393554688,
+        "document_id": "wikipedia:2137",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 93.23233795166016,
+        "perplexity": 3.4663349983712917,
+        "scored_tokens": 75
+      },
+      {
+        "cross_entropy_nats": 1.0978466380726208,
+        "document_id": "wikipedia:21422",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 120.76313018798828,
+        "perplexity": 2.9977039273204076,
+        "scored_tokens": 110
+      },
+      {
+        "cross_entropy_nats": 1.2306437174479166,
+        "document_id": "wikipedia:21482",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 184.5965576171875,
+        "perplexity": 3.423432550418755,
+        "scored_tokens": 150
+      },
+      {
+        "cross_entropy_nats": 1.1064472904911749,
+        "document_id": "wikipedia:22110",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 119.49630737304688,
+        "perplexity": 3.023597327305957,
+        "scored_tokens": 108
+      },
+      {
+        "cross_entropy_nats": 0.9919690645658052,
+        "document_id": "wikipedia:22276",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 128.9559783935547,
+        "perplexity": 2.696538907460779,
+        "scored_tokens": 130
+      },
+      {
+        "cross_entropy_nats": 1.2489586347415123,
+        "document_id": "wikipedia:22346",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 101.1656494140625,
+        "perplexity": 3.4867101274455172,
+        "scored_tokens": 81
+      },
+      {
+        "cross_entropy_nats": 1.7796926498413086,
+        "document_id": "wikipedia:22420",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 113.90032958984375,
+        "perplexity": 5.928034156330517,
+        "scored_tokens": 64
+      },
+      {
+        "cross_entropy_nats": 1.228835919581422,
+        "document_id": "wikipedia:22678",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 267.88623046875,
+        "perplexity": 3.4172492671051935,
+        "scored_tokens": 218
+      },
+      {
+        "cross_entropy_nats": 0.8601239136975221,
+        "document_id": "wikipedia:23162",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 85.15226745605469,
+        "perplexity": 2.363453539828639,
+        "scored_tokens": 99
+      },
+      {
+        "cross_entropy_nats": 1.880510367599188,
+        "document_id": "wikipedia:31189",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 95.9060287475586,
+        "perplexity": 6.556850412391525,
+        "scored_tokens": 51
+      },
+      {
+        "cross_entropy_nats": 1.729542032877604,
+        "document_id": "wikipedia:31444",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 77.82939147949219,
+        "perplexity": 5.638071265817288,
+        "scored_tokens": 45
+      },
+      {
+        "cross_entropy_nats": 1.729542032877604,
+        "document_id": "wikipedia:31476",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 77.82939147949219,
+        "perplexity": 5.638071265817288,
+        "scored_tokens": 45
+      },
+      {
+        "cross_entropy_nats": 2.080303060597387,
+        "document_id": "wikipedia:31698",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 60.32878875732422,
+        "perplexity": 8.00689512105255,
+        "scored_tokens": 29
+      },
+      {
+        "cross_entropy_nats": 0.984436258319527,
+        "document_id": "wikipedia:33593",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 538.4866333007812,
+        "perplexity": 2.6763027156799652,
+        "scored_tokens": 547
+      },
+      {
+        "cross_entropy_nats": 1.313525419968825,
+        "document_id": "wikipedia:38623",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 68.3033218383789,
+        "perplexity": 3.719262589361248,
+        "scored_tokens": 52
+      },
+      {
+        "cross_entropy_nats": 0.24811084767713903,
+        "document_id": "wikipedia:41260",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 92.79345703125,
+        "perplexity": 1.2816019869239246,
+        "scored_tokens": 374
+      },
+      {
+        "cross_entropy_nats": 1.4417740433304398,
+        "document_id": "wikipedia:42508",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 194.63949584960938,
+        "perplexity": 4.228190159939533,
+        "scored_tokens": 135
+      },
+      {
+        "cross_entropy_nats": 1.078268042745044,
+        "document_id": "wikipedia:43996",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 489.53369140625,
+        "perplexity": 2.9395839059470745,
+        "scored_tokens": 454
+      },
+      {
+        "cross_entropy_nats": 1.557779524061415,
+        "document_id": "wikipedia:44139",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 56.08006286621094,
+        "perplexity": 4.74826612010443,
+        "scored_tokens": 36
+      },
+      {
+        "cross_entropy_nats": 0.6603500463400677,
+        "document_id": "wikipedia:44566",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 103.67495727539062,
+        "perplexity": 1.9354697199287254,
+        "scored_tokens": 157
+      },
+      {
+        "cross_entropy_nats": 2.0408638619087838,
+        "document_id": "wikipedia:45779",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 75.511962890625,
+        "perplexity": 7.697255693634742,
+        "scored_tokens": 37
+      },
+      {
+        "cross_entropy_nats": 0.8884878467535097,
+        "document_id": "wikipedia:46308",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 411.369873046875,
+        "perplexity": 2.431450144772047,
+        "scored_tokens": 463
+      },
+      {
+        "cross_entropy_nats": 1.0904584981627383,
+        "document_id": "wikipedia:47210",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 193.0111541748047,
+        "perplexity": 2.9756380844353894,
+        "scored_tokens": 177
+      },
+      {
+        "cross_entropy_nats": 0.9444551969829359,
+        "document_id": "wikipedia:47524",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 107.66789245605469,
+        "perplexity": 2.5714120838467895,
+        "scored_tokens": 114
+      },
+      {
+        "cross_entropy_nats": 1.3106985209900657,
+        "document_id": "wikipedia:47552",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 106.16658020019531,
+        "perplexity": 3.708763456731159,
+        "scored_tokens": 81
+      },
+      {
+        "cross_entropy_nats": 1.449355661052547,
+        "document_id": "wikipedia:50690",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 105.80296325683594,
+        "perplexity": 4.260368509223538,
+        "scored_tokens": 73
+      },
+      {
+        "cross_entropy_nats": 1.751974061478016,
+        "document_id": "wikipedia:8494",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 75.33488464355469,
+        "perplexity": 5.765973835460934,
+        "scored_tokens": 43
+      },
+      {
+        "cross_entropy_nats": 0.9727437517284292,
+        "document_id": "textbooks:grade10_page012_excerpt",
+        "domain": "textbooks",
+        "negative_log_likelihood_sum": 219.840087890625,
+        "perplexity": 2.645192262563404,
+        "scored_tokens": 226
+      },
+      {
+        "cross_entropy_nats": 0.9967735799153646,
+        "document_id": "textbooks:grade10_page041_excerpt",
+        "domain": "textbooks",
+        "negative_log_likelihood_sum": 299.0320739746094,
+        "perplexity": 2.709525642534905,
+        "scored_tokens": 300
+      },
+      {
+        "cross_entropy_nats": 0.9100302565377781,
+        "document_id": "textbooks:grade10_page042_excerpt",
+        "domain": "textbooks",
+        "negative_log_likelihood_sum": 736.2144775390625,
+        "perplexity": 2.484397701520559,
+        "scored_tokens": 809
+      },
+      {
+        "cross_entropy_nats": 0.9650808033538236,
+        "document_id": "books:0004",
+        "domain": "books",
+        "negative_log_likelihood_sum": 556.8516235351562,
+        "perplexity": 2.624999756689382,
+        "scored_tokens": 577
+      },
+      {
+        "cross_entropy_nats": 0.9458499921262598,
+        "document_id": "books:0111",
+        "domain": "books",
+        "negative_log_likelihood_sum": 844.64404296875,
+        "perplexity": 2.575001179377463,
+        "scored_tokens": 893
+      }
+    ],
+    "domains": {
+      "books": {
+        "cross_entropy_nats": 0.9533984125876913,
+        "negative_log_likelihood_sum": 1401.4956665039062,
+        "perplexity": 2.594511915948461,
+        "scored_tokens": 1470
+      },
+      "textbooks": {
+        "cross_entropy_nats": 0.9401398047972261,
+        "negative_log_likelihood_sum": 1255.0866394042969,
+        "perplexity": 2.5603393410314363,
+        "scored_tokens": 1335
+      },
+      "wikipedia": {
+        "cross_entropy_nats": 1.1162156955600553,
+        "negative_log_likelihood_sum": 11252.570426940918,
+        "perplexity": 3.053277780094007,
+        "scored_tokens": 10081
+      }
+    },
+    "windows": [
+      {
+        "begin": 0,
+        "document_id": "wikipedia:10425",
+        "domain": "wikipedia",
+        "end": 185,
+        "negative_log_likelihood_sum": 227.23626708984375,
+        "score_from": 1,
+        "targets": 184
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:11349",
+        "domain": "wikipedia",
+        "end": 882,
+        "negative_log_likelihood_sum": 989.706298828125,
+        "score_from": 1,
+        "targets": 881
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:12254",
+        "domain": "wikipedia",
+        "end": 1412,
+        "negative_log_likelihood_sum": 1306.0408935546875,
+        "score_from": 1,
+        "targets": 1411
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:12989",
+        "domain": "wikipedia",
+        "end": 108,
+        "negative_log_likelihood_sum": 219.92050170898438,
+        "score_from": 1,
+        "targets": 107
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:14324",
+        "domain": "wikipedia",
+        "end": 1591,
+        "negative_log_likelihood_sum": 1625.690185546875,
+        "score_from": 1,
+        "targets": 1590
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:14851",
+        "domain": "wikipedia",
+        "end": 69,
+        "negative_log_likelihood_sum": 118.97325897216797,
+        "score_from": 1,
+        "targets": 68
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:15169",
+        "domain": "wikipedia",
+        "end": 58,
+        "negative_log_likelihood_sum": 110.12043762207031,
+        "score_from": 1,
+        "targets": 57
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:15254",
+        "domain": "wikipedia",
+        "end": 215,
+        "negative_log_likelihood_sum": 297.2303466796875,
+        "score_from": 1,
+        "targets": 214
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:15341",
+        "domain": "wikipedia",
+        "end": 39,
+        "negative_log_likelihood_sum": 66.89649963378906,
+        "score_from": 1,
+        "targets": 38
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:15778",
+        "domain": "wikipedia",
+        "end": 295,
+        "negative_log_likelihood_sum": 293.23101806640625,
+        "score_from": 1,
+        "targets": 294
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:15992",
+        "domain": "wikipedia",
+        "end": 62,
+        "negative_log_likelihood_sum": 120.50527954101562,
+        "score_from": 1,
+        "targets": 61
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:16618",
+        "domain": "wikipedia",
+        "end": 92,
+        "negative_log_likelihood_sum": 145.74090576171875,
+        "score_from": 1,
+        "targets": 91
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:17277",
+        "domain": "wikipedia",
+        "end": 65,
+        "negative_log_likelihood_sum": 132.0950164794922,
+        "score_from": 1,
+        "targets": 64
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:17577",
+        "domain": "wikipedia",
+        "end": 241,
+        "negative_log_likelihood_sum": 299.8205871582031,
+        "score_from": 1,
+        "targets": 240
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:19435",
+        "domain": "wikipedia",
+        "end": 84,
+        "negative_log_likelihood_sum": 96.54735565185547,
+        "score_from": 1,
+        "targets": 83
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:19529",
+        "domain": "wikipedia",
+        "end": 58,
+        "negative_log_likelihood_sum": 101.64421081542969,
+        "score_from": 1,
+        "targets": 57
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:19576",
+        "domain": "wikipedia",
+        "end": 67,
+        "negative_log_likelihood_sum": 108.14873504638672,
+        "score_from": 1,
+        "targets": 66
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:20314",
+        "domain": "wikipedia",
+        "end": 78,
+        "negative_log_likelihood_sum": 126.46206665039062,
+        "score_from": 1,
+        "targets": 77
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:20389",
+        "domain": "wikipedia",
+        "end": 67,
+        "negative_log_likelihood_sum": 128.90203857421875,
+        "score_from": 1,
+        "targets": 66
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:20390",
+        "domain": "wikipedia",
+        "end": 64,
+        "negative_log_likelihood_sum": 118.42558288574219,
+        "score_from": 1,
+        "targets": 63
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:20440",
+        "domain": "wikipedia",
+        "end": 52,
+        "negative_log_likelihood_sum": 82.32213592529297,
+        "score_from": 1,
+        "targets": 51
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:21061",
+        "domain": "wikipedia",
+        "end": 115,
+        "negative_log_likelihood_sum": 128.01304626464844,
+        "score_from": 1,
+        "targets": 114
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:21063",
+        "domain": "wikipedia",
+        "end": 133,
+        "negative_log_likelihood_sum": 135.22830200195312,
+        "score_from": 1,
+        "targets": 132
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:21292",
+        "domain": "wikipedia",
+        "end": 125,
+        "negative_log_likelihood_sum": 128.25013732910156,
+        "score_from": 1,
+        "targets": 124
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:2137",
+        "domain": "wikipedia",
+        "end": 76,
+        "negative_log_likelihood_sum": 93.23233795166016,
+        "score_from": 1,
+        "targets": 75
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:21422",
+        "domain": "wikipedia",
+        "end": 111,
+        "negative_log_likelihood_sum": 120.76313018798828,
+        "score_from": 1,
+        "targets": 110
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:21482",
+        "domain": "wikipedia",
+        "end": 151,
+        "negative_log_likelihood_sum": 184.5965576171875,
+        "score_from": 1,
+        "targets": 150
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:22110",
+        "domain": "wikipedia",
+        "end": 109,
+        "negative_log_likelihood_sum": 119.49630737304688,
+        "score_from": 1,
+        "targets": 108
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:22276",
+        "domain": "wikipedia",
+        "end": 131,
+        "negative_log_likelihood_sum": 128.9559783935547,
+        "score_from": 1,
+        "targets": 130
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:22346",
+        "domain": "wikipedia",
+        "end": 82,
+        "negative_log_likelihood_sum": 101.1656494140625,
+        "score_from": 1,
+        "targets": 81
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:22420",
+        "domain": "wikipedia",
+        "end": 65,
+        "negative_log_likelihood_sum": 113.90032958984375,
+        "score_from": 1,
+        "targets": 64
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:22678",
+        "domain": "wikipedia",
+        "end": 219,
+        "negative_log_likelihood_sum": 267.88623046875,
+        "score_from": 1,
+        "targets": 218
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:23162",
+        "domain": "wikipedia",
+        "end": 100,
+        "negative_log_likelihood_sum": 85.15226745605469,
+        "score_from": 1,
+        "targets": 99
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:31189",
+        "domain": "wikipedia",
+        "end": 52,
+        "negative_log_likelihood_sum": 95.9060287475586,
+        "score_from": 1,
+        "targets": 51
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:31444",
+        "domain": "wikipedia",
+        "end": 46,
+        "negative_log_likelihood_sum": 77.82939147949219,
+        "score_from": 1,
+        "targets": 45
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:31476",
+        "domain": "wikipedia",
+        "end": 46,
+        "negative_log_likelihood_sum": 77.82939147949219,
+        "score_from": 1,
+        "targets": 45
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:31698",
+        "domain": "wikipedia",
+        "end": 30,
+        "negative_log_likelihood_sum": 60.32878875732422,
+        "score_from": 1,
+        "targets": 29
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:33593",
+        "domain": "wikipedia",
+        "end": 548,
+        "negative_log_likelihood_sum": 538.4866333007812,
+        "score_from": 1,
+        "targets": 547
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:38623",
+        "domain": "wikipedia",
+        "end": 53,
+        "negative_log_likelihood_sum": 68.3033218383789,
+        "score_from": 1,
+        "targets": 52
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:41260",
+        "domain": "wikipedia",
+        "end": 375,
+        "negative_log_likelihood_sum": 92.79345703125,
+        "score_from": 1,
+        "targets": 374
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:42508",
+        "domain": "wikipedia",
+        "end": 136,
+        "negative_log_likelihood_sum": 194.63949584960938,
+        "score_from": 1,
+        "targets": 135
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:43996",
+        "domain": "wikipedia",
+        "end": 455,
+        "negative_log_likelihood_sum": 489.53369140625,
+        "score_from": 1,
+        "targets": 454
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:44139",
+        "domain": "wikipedia",
+        "end": 37,
+        "negative_log_likelihood_sum": 56.08006286621094,
+        "score_from": 1,
+        "targets": 36
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:44566",
+        "domain": "wikipedia",
+        "end": 158,
+        "negative_log_likelihood_sum": 103.67495727539062,
+        "score_from": 1,
+        "targets": 157
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:45779",
+        "domain": "wikipedia",
+        "end": 38,
+        "negative_log_likelihood_sum": 75.511962890625,
+        "score_from": 1,
+        "targets": 37
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:46308",
+        "domain": "wikipedia",
+        "end": 464,
+        "negative_log_likelihood_sum": 411.369873046875,
+        "score_from": 1,
+        "targets": 463
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:47210",
+        "domain": "wikipedia",
+        "end": 178,
+        "negative_log_likelihood_sum": 193.0111541748047,
+        "score_from": 1,
+        "targets": 177
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:47524",
+        "domain": "wikipedia",
+        "end": 115,
+        "negative_log_likelihood_sum": 107.66789245605469,
+        "score_from": 1,
+        "targets": 114
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:47552",
+        "domain": "wikipedia",
+        "end": 82,
+        "negative_log_likelihood_sum": 106.16658020019531,
+        "score_from": 1,
+        "targets": 81
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:50690",
+        "domain": "wikipedia",
+        "end": 74,
+        "negative_log_likelihood_sum": 105.80296325683594,
+        "score_from": 1,
+        "targets": 73
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:8494",
+        "domain": "wikipedia",
+        "end": 44,
+        "negative_log_likelihood_sum": 75.33488464355469,
+        "score_from": 1,
+        "targets": 43
+      },
+      {
+        "begin": 0,
+        "document_id": "textbooks:grade10_page012_excerpt",
+        "domain": "textbooks",
+        "end": 227,
+        "negative_log_likelihood_sum": 219.840087890625,
+        "score_from": 1,
+        "targets": 226
+      },
+      {
+        "begin": 0,
+        "document_id": "textbooks:grade10_page041_excerpt",
+        "domain": "textbooks",
+        "end": 301,
+        "negative_log_likelihood_sum": 299.0320739746094,
+        "score_from": 1,
+        "targets": 300
+      },
+      {
+        "begin": 0,
+        "document_id": "textbooks:grade10_page042_excerpt",
+        "domain": "textbooks",
+        "end": 810,
+        "negative_log_likelihood_sum": 736.2144775390625,
+        "score_from": 1,
+        "targets": 809
+      },
+      {
+        "begin": 0,
+        "document_id": "books:0004",
+        "domain": "books",
+        "end": 578,
+        "negative_log_likelihood_sum": 556.8516235351562,
+        "score_from": 1,
+        "targets": 577
+      },
+      {
+        "begin": 0,
+        "document_id": "books:0111",
+        "domain": "books",
+        "end": 894,
+        "negative_log_likelihood_sum": 844.64404296875,
+        "score_from": 1,
+        "targets": 893
+      }
+    ]
+  },
+  "adapter_sha256": "75b6bd0b250131ca8871f1b1cb86f671a505e0d2361bba3f187c2c6f8122fb5f",
+  "bundle_sha256": "03f6aa937298976e0d5b450044a102ef8d0fd9a6996745dfcc557bac05c97fa9",
+  "comparison": {
+    "books": {
+      "adapted": {
+        "cross_entropy_nats": 0.9533984125876913,
+        "negative_log_likelihood_sum": 1401.4956665039062,
+        "perplexity": 2.594511915948461,
+        "scored_tokens": 1470
+      },
+      "cross_entropy_change_nats": -0.03093793181335036,
+      "original": {
+        "cross_entropy_nats": 0.9843363444010417,
+        "negative_log_likelihood_sum": 1446.9744262695312,
+        "perplexity": 2.6760353291466292,
+        "scored_tokens": 1470
+      },
+      "perplexity_reduction_percent": 3.046425146568066
+    },
+    "textbooks": {
+      "adapted": {
+        "cross_entropy_nats": 0.9401398047972261,
+        "negative_log_likelihood_sum": 1255.0866394042969,
+        "perplexity": 2.5603393410314363,
+        "scored_tokens": 1335
+      },
+      "cross_entropy_change_nats": -0.022265339254886496,
+      "original": {
+        "cross_entropy_nats": 0.9624051440521126,
+        "negative_log_likelihood_sum": 1284.8108673095703,
+        "perplexity": 2.617985539685546,
+        "scored_tokens": 1335
+      },
+      "perplexity_reduction_percent": 2.201929605044106
+    },
+    "wikipedia": {
+      "adapted": {
+        "cross_entropy_nats": 1.1162156955600553,
+        "negative_log_likelihood_sum": 11252.570426940918,
+        "perplexity": 3.053277780094007,
+        "scored_tokens": 10081
+      },
+      "cross_entropy_change_nats": -0.04138541942952512,
+      "original": {
+        "cross_entropy_nats": 1.1576011149895804,
+        "negative_log_likelihood_sum": 11669.776840209961,
+        "perplexity": 3.1822901641345394,
+        "scored_tokens": 10081
+      },
+      "perplexity_reduction_percent": 4.054073556665083
+    }
+  },
+  "config_sha256": "729f37f0f4f0a1baa8ce28725470897cefa286e1a8a94d159ba1f99396380028",
+  "disabled_adapter_control_reproduces_original": true,
+  "expected_targets": 12886,
+  "expected_windows": 56,
+  "generation_performed": false,
+  "hardware": {
+    "accelerator_env": "gpu",
+    "authorized_flavor": "a100-large",
+    "bf16_supported": true,
+    "cuda_available": true,
+    "cuda_runtime": "12.6",
+    "gpu_memory_bytes": 85093777408,
+    "gpu_name": "NVIDIA A100-SXM4-80GB",
+    "stage": "hardware_preflight",
+    "torch_version": "2.14.0+cu126",
+    "visible_gpu_count": 1
+  },
+  "input_revision": "af16a7897db060d33b25e5437b72b81e8cff880a",
+  "loaded_adapter_tensors_match": true,
+  "original": {
+    "documents": [
+      {
+        "cross_entropy_nats": 1.273317585820737,
+        "document_id": "wikipedia:10425",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 234.29043579101562,
+        "perplexity": 3.572685614055145,
+        "scored_tokens": 184
+      },
+      {
+        "cross_entropy_nats": 1.1281133472039941,
+        "document_id": "wikipedia:11349",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 993.8678588867188,
+        "perplexity": 3.08982157710096,
+        "scored_tokens": 881
+      },
+      {
+        "cross_entropy_nats": 0.927425695428774,
+        "document_id": "wikipedia:12254",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 1308.59765625,
+        "perplexity": 2.5279929700062187,
+        "scored_tokens": 1411
+      },
+      {
+        "cross_entropy_nats": 2.1494793758214077,
+        "document_id": "wikipedia:12989",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 229.99429321289062,
+        "perplexity": 8.580390075585589,
+        "scored_tokens": 107
+      },
+      {
+        "cross_entropy_nats": 1.0238069354363208,
+        "document_id": "wikipedia:14324",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 1627.85302734375,
+        "perplexity": 2.7837722585277414,
+        "scored_tokens": 1590
+      },
+      {
+        "cross_entropy_nats": 1.9031410217285156,
+        "document_id": "wikipedia:14851",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 129.41358947753906,
+        "perplexity": 6.706927998131895,
+        "scored_tokens": 68
+      },
+      {
+        "cross_entropy_nats": 2.098159388491982,
+        "document_id": "wikipedia:15169",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 119.59508514404297,
+        "perplexity": 8.151152990649388,
+        "scored_tokens": 57
+      },
+      {
+        "cross_entropy_nats": 1.4212163051712179,
+        "document_id": "wikipedia:15254",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 304.1402893066406,
+        "perplexity": 4.142155502702331,
+        "scored_tokens": 214
+      },
+      {
+        "cross_entropy_nats": 1.9941354048879523,
+        "document_id": "wikipedia:15341",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 75.77714538574219,
+        "perplexity": 7.345849096275018,
+        "scored_tokens": 38
+      },
+      {
+        "cross_entropy_nats": 1.0253071687659439,
+        "document_id": "wikipedia:15778",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 301.4403076171875,
+        "perplexity": 2.7879517007374264,
+        "scored_tokens": 294
+      },
+      {
+        "cross_entropy_nats": 2.0909482611984505,
+        "document_id": "wikipedia:15992",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 127.54784393310547,
+        "perplexity": 8.092585411772406,
+        "scored_tokens": 61
+      },
+      {
+        "cross_entropy_nats": 1.6874725006438873,
+        "document_id": "wikipedia:16618",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 153.55999755859375,
+        "perplexity": 5.405800267070558,
+        "scored_tokens": 91
+      },
+      {
+        "cross_entropy_nats": 2.178295612335205,
+        "document_id": "wikipedia:17277",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 139.41091918945312,
+        "perplexity": 8.831241565140308,
+        "scored_tokens": 64
+      },
+      {
+        "cross_entropy_nats": 1.321169916788737,
+        "document_id": "wikipedia:17577",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 317.0807800292969,
+        "perplexity": 3.747803431597094,
+        "scored_tokens": 240
+      },
+      {
+        "cross_entropy_nats": 1.3079955319324172,
+        "document_id": "wikipedia:19435",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 108.56362915039062,
+        "perplexity": 3.6987522458821807,
+        "scored_tokens": 83
+      },
+      {
+        "cross_entropy_nats": 1.9382300125925165,
+        "document_id": "wikipedia:19529",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 110.47911071777344,
+        "perplexity": 6.946444962999453,
+        "scored_tokens": 57
+      },
+      {
+        "cross_entropy_nats": 1.7431270714962122,
+        "document_id": "wikipedia:19576",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 115.04638671875,
+        "perplexity": 5.71518730790496,
+        "scored_tokens": 66
+      },
+      {
+        "cross_entropy_nats": 1.7373379794034092,
+        "document_id": "wikipedia:20314",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 133.7750244140625,
+        "perplexity": 5.682197145929633,
+        "scored_tokens": 77
+      },
+      {
+        "cross_entropy_nats": 2.030291933001894,
+        "document_id": "wikipedia:20389",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 133.999267578125,
+        "perplexity": 7.616309486353738,
+        "scored_tokens": 66
+      },
+      {
+        "cross_entropy_nats": 1.956758045014881,
+        "document_id": "wikipedia:20390",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 123.2757568359375,
+        "perplexity": 7.076348634032218,
+        "scored_tokens": 63
+      },
+      {
+        "cross_entropy_nats": 1.784753537645527,
+        "document_id": "wikipedia:20440",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 91.02243041992188,
+        "perplexity": 5.958111316465612,
+        "scored_tokens": 51
+      },
+      {
+        "cross_entropy_nats": 1.2012060065018504,
+        "document_id": "wikipedia:21061",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 136.93748474121094,
+        "perplexity": 3.3241234207780104,
+        "scored_tokens": 114
+      },
+      {
+        "cross_entropy_nats": 1.1582791877515388,
+        "document_id": "wikipedia:21063",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 152.89285278320312,
+        "perplexity": 3.184448720161805,
+        "scored_tokens": 132
+      },
+      {
+        "cross_entropy_nats": 1.130096927765877,
+        "document_id": "wikipedia:21292",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 140.13201904296875,
+        "perplexity": 3.095956569735495,
+        "scored_tokens": 124
+      },
+      {
+        "cross_entropy_nats": 1.3392010498046876,
+        "document_id": "wikipedia:2137",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 100.44007873535156,
+        "perplexity": 3.8159934983758976,
+        "scored_tokens": 75
+      },
+      {
+        "cross_entropy_nats": 1.1665394176136363,
+        "document_id": "wikipedia:21422",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 128.3193359375,
+        "perplexity": 3.21086193801578,
+        "scored_tokens": 110
+      },
+      {
+        "cross_entropy_nats": 1.2668147786458333,
+        "document_id": "wikipedia:21482",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 190.022216796875,
+        "perplexity": 3.5495285031266484,
+        "scored_tokens": 150
+      },
+      {
+        "cross_entropy_nats": 1.1982777913411458,
+        "document_id": "wikipedia:22110",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 129.41400146484375,
+        "perplexity": 3.3144039095362707,
+        "scored_tokens": 108
+      },
+      {
+        "cross_entropy_nats": 1.0725186861478366,
+        "document_id": "wikipedia:22276",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 139.42742919921875,
+        "perplexity": 2.9227316809707706,
+        "scored_tokens": 130
+      },
+      {
+        "cross_entropy_nats": 1.3653697261103876,
+        "document_id": "wikipedia:22346",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 110.5949478149414,
+        "perplexity": 3.917171064713651,
+        "scored_tokens": 81
+      },
+      {
+        "cross_entropy_nats": 1.9039716720581055,
+        "document_id": "wikipedia:22420",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 121.85418701171875,
+        "perplexity": 6.7125014245478605,
+        "scored_tokens": 64
+      },
+      {
+        "cross_entropy_nats": 1.3300117702659118,
+        "document_id": "wikipedia:22678",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 289.94256591796875,
+        "perplexity": 3.7810878917167887,
+        "scored_tokens": 218
+      },
+      {
+        "cross_entropy_nats": 0.8546127935852668,
+        "document_id": "wikipedia:23162",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 84.6066665649414,
+        "perplexity": 2.350464089577934,
+        "scored_tokens": 99
+      },
+      {
+        "cross_entropy_nats": 2.0087818818933822,
+        "document_id": "wikipedia:31189",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 102.4478759765625,
+        "perplexity": 7.454231680154284,
+        "scored_tokens": 51
+      },
+      {
+        "cross_entropy_nats": 1.853558349609375,
+        "document_id": "wikipedia:31444",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 83.41012573242188,
+        "perplexity": 6.382490295262139,
+        "scored_tokens": 45
+      },
+      {
+        "cross_entropy_nats": 1.853558349609375,
+        "document_id": "wikipedia:31476",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 83.41012573242188,
+        "perplexity": 6.382490295262139,
+        "scored_tokens": 45
+      },
+      {
+        "cross_entropy_nats": 2.351756654936692,
+        "document_id": "wikipedia:31698",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 68.20094299316406,
+        "perplexity": 10.50400544040322,
+        "scored_tokens": 29
+      },
+      {
+        "cross_entropy_nats": 0.998323151136883,
+        "document_id": "wikipedia:33593",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 546.082763671875,
+        "perplexity": 2.713727500192613,
+        "scored_tokens": 547
+      },
+      {
+        "cross_entropy_nats": 1.3537514026348407,
+        "document_id": "wikipedia:38623",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 70.39507293701172,
+        "perplexity": 3.871923463786255,
+        "scored_tokens": 52
+      },
+      {
+        "cross_entropy_nats": 0.27257570480917864,
+        "document_id": "wikipedia:41260",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 101.94331359863281,
+        "perplexity": 1.3133428815212873,
+        "scored_tokens": 374
+      },
+      {
+        "cross_entropy_nats": 1.5168555365668404,
+        "document_id": "wikipedia:42508",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 204.77549743652344,
+        "perplexity": 4.557870580815569,
+        "scored_tokens": 135
+      },
+      {
+        "cross_entropy_nats": 1.0938220591272025,
+        "document_id": "wikipedia:43996",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 496.59521484375,
+        "perplexity": 2.985663675932594,
+        "scored_tokens": 454
+      },
+      {
+        "cross_entropy_nats": 1.9248390197753906,
+        "document_id": "wikipedia:44139",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 69.29420471191406,
+        "perplexity": 6.854045211346775,
+        "scored_tokens": 36
+      },
+      {
+        "cross_entropy_nats": 0.6988151696077578,
+        "document_id": "wikipedia:44566",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 109.71398162841797,
+        "perplexity": 2.01136816497837,
+        "scored_tokens": 157
+      },
+      {
+        "cross_entropy_nats": 2.1510743837098816,
+        "document_id": "wikipedia:45779",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 79.58975219726562,
+        "perplexity": 8.594086785718925,
+        "scored_tokens": 37
+      },
+      {
+        "cross_entropy_nats": 0.8921207568042994,
+        "document_id": "wikipedia:46308",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 413.0519104003906,
+        "perplexity": 2.440299449071466,
+        "scored_tokens": 463
+      },
+      {
+        "cross_entropy_nats": 1.1401750812422757,
+        "document_id": "wikipedia:47210",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 201.8109893798828,
+        "perplexity": 3.127315851601743,
+        "scored_tokens": 177
+      },
+      {
+        "cross_entropy_nats": 1.012995669716283,
+        "document_id": "wikipedia:47524",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 115.48150634765625,
+        "perplexity": 2.7538382607042124,
+        "scored_tokens": 114
+      },
+      {
+        "cross_entropy_nats": 1.4632031476056133,
+        "document_id": "wikipedia:47552",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 118.51945495605469,
+        "perplexity": 4.31977426580813,
+        "scored_tokens": 81
+      },
+      {
+        "cross_entropy_nats": 1.6045647190041739,
+        "document_id": "wikipedia:50690",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 117.13322448730469,
+        "perplexity": 4.975693306562705,
+        "scored_tokens": 73
+      },
+      {
+        "cross_entropy_nats": 1.9675874931867732,
+        "document_id": "wikipedia:8494",
+        "domain": "wikipedia",
+        "negative_log_likelihood_sum": 84.60626220703125,
+        "perplexity": 7.15339803303893,
+        "scored_tokens": 43
+      },
+      {
+        "cross_entropy_nats": 1.033794099250726,
+        "document_id": "textbooks:grade10_page012_excerpt",
+        "domain": "textbooks",
+        "negative_log_likelihood_sum": 233.63746643066406,
+        "perplexity": 2.8117135429416997,
+        "scored_tokens": 226
+      },
+      {
+        "cross_entropy_nats": 1.0055069986979166,
+        "document_id": "textbooks:grade10_page041_excerpt",
+        "domain": "textbooks",
+        "negative_log_likelihood_sum": 301.652099609375,
+        "perplexity": 2.7332926974306373,
+        "scored_tokens": 300
+      },
+      {
+        "cross_entropy_nats": 0.9264787407534378,
+        "document_id": "textbooks:grade10_page042_excerpt",
+        "domain": "textbooks",
+        "negative_log_likelihood_sum": 749.5213012695312,
+        "perplexity": 2.525600208341281,
+        "scored_tokens": 809
+      },
+      {
+        "cross_entropy_nats": 1.0262693408456998,
+        "document_id": "books:0004",
+        "domain": "books",
+        "negative_log_likelihood_sum": 592.1574096679688,
+        "perplexity": 2.7906354809457286,
+        "scored_tokens": 577
+      },
+      {
+        "cross_entropy_nats": 0.9572418998897676,
+        "document_id": "books:0111",
+        "domain": "books",
+        "negative_log_likelihood_sum": 854.8170166015625,
+        "perplexity": 2.6045030777047202,
+        "scored_tokens": 893
+      }
+    ],
+    "domains": {
+      "books": {
+        "cross_entropy_nats": 0.9843363444010417,
+        "negative_log_likelihood_sum": 1446.9744262695312,
+        "perplexity": 2.6760353291466292,
+        "scored_tokens": 1470
+      },
+      "textbooks": {
+        "cross_entropy_nats": 0.9624051440521126,
+        "negative_log_likelihood_sum": 1284.8108673095703,
+        "perplexity": 2.617985539685546,
+        "scored_tokens": 1335
+      },
+      "wikipedia": {
+        "cross_entropy_nats": 1.1576011149895804,
+        "negative_log_likelihood_sum": 11669.776840209961,
+        "perplexity": 3.1822901641345394,
+        "scored_tokens": 10081
+      }
+    },
+    "windows": [
+      {
+        "begin": 0,
+        "document_id": "wikipedia:10425",
+        "domain": "wikipedia",
+        "end": 185,
+        "negative_log_likelihood_sum": 234.29043579101562,
+        "score_from": 1,
+        "targets": 184
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:11349",
+        "domain": "wikipedia",
+        "end": 882,
+        "negative_log_likelihood_sum": 993.8678588867188,
+        "score_from": 1,
+        "targets": 881
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:12254",
+        "domain": "wikipedia",
+        "end": 1412,
+        "negative_log_likelihood_sum": 1308.59765625,
+        "score_from": 1,
+        "targets": 1411
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:12989",
+        "domain": "wikipedia",
+        "end": 108,
+        "negative_log_likelihood_sum": 229.99429321289062,
+        "score_from": 1,
+        "targets": 107
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:14324",
+        "domain": "wikipedia",
+        "end": 1591,
+        "negative_log_likelihood_sum": 1627.85302734375,
+        "score_from": 1,
+        "targets": 1590
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:14851",
+        "domain": "wikipedia",
+        "end": 69,
+        "negative_log_likelihood_sum": 129.41358947753906,
+        "score_from": 1,
+        "targets": 68
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:15169",
+        "domain": "wikipedia",
+        "end": 58,
+        "negative_log_likelihood_sum": 119.59508514404297,
+        "score_from": 1,
+        "targets": 57
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:15254",
+        "domain": "wikipedia",
+        "end": 215,
+        "negative_log_likelihood_sum": 304.1402893066406,
+        "score_from": 1,
+        "targets": 214
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:15341",
+        "domain": "wikipedia",
+        "end": 39,
+        "negative_log_likelihood_sum": 75.77714538574219,
+        "score_from": 1,
+        "targets": 38
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:15778",
+        "domain": "wikipedia",
+        "end": 295,
+        "negative_log_likelihood_sum": 301.4403076171875,
+        "score_from": 1,
+        "targets": 294
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:15992",
+        "domain": "wikipedia",
+        "end": 62,
+        "negative_log_likelihood_sum": 127.54784393310547,
+        "score_from": 1,
+        "targets": 61
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:16618",
+        "domain": "wikipedia",
+        "end": 92,
+        "negative_log_likelihood_sum": 153.55999755859375,
+        "score_from": 1,
+        "targets": 91
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:17277",
+        "domain": "wikipedia",
+        "end": 65,
+        "negative_log_likelihood_sum": 139.41091918945312,
+        "score_from": 1,
+        "targets": 64
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:17577",
+        "domain": "wikipedia",
+        "end": 241,
+        "negative_log_likelihood_sum": 317.0807800292969,
+        "score_from": 1,
+        "targets": 240
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:19435",
+        "domain": "wikipedia",
+        "end": 84,
+        "negative_log_likelihood_sum": 108.56362915039062,
+        "score_from": 1,
+        "targets": 83
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:19529",
+        "domain": "wikipedia",
+        "end": 58,
+        "negative_log_likelihood_sum": 110.47911071777344,
+        "score_from": 1,
+        "targets": 57
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:19576",
+        "domain": "wikipedia",
+        "end": 67,
+        "negative_log_likelihood_sum": 115.04638671875,
+        "score_from": 1,
+        "targets": 66
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:20314",
+        "domain": "wikipedia",
+        "end": 78,
+        "negative_log_likelihood_sum": 133.7750244140625,
+        "score_from": 1,
+        "targets": 77
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:20389",
+        "domain": "wikipedia",
+        "end": 67,
+        "negative_log_likelihood_sum": 133.999267578125,
+        "score_from": 1,
+        "targets": 66
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:20390",
+        "domain": "wikipedia",
+        "end": 64,
+        "negative_log_likelihood_sum": 123.2757568359375,
+        "score_from": 1,
+        "targets": 63
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:20440",
+        "domain": "wikipedia",
+        "end": 52,
+        "negative_log_likelihood_sum": 91.02243041992188,
+        "score_from": 1,
+        "targets": 51
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:21061",
+        "domain": "wikipedia",
+        "end": 115,
+        "negative_log_likelihood_sum": 136.93748474121094,
+        "score_from": 1,
+        "targets": 114
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:21063",
+        "domain": "wikipedia",
+        "end": 133,
+        "negative_log_likelihood_sum": 152.89285278320312,
+        "score_from": 1,
+        "targets": 132
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:21292",
+        "domain": "wikipedia",
+        "end": 125,
+        "negative_log_likelihood_sum": 140.13201904296875,
+        "score_from": 1,
+        "targets": 124
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:2137",
+        "domain": "wikipedia",
+        "end": 76,
+        "negative_log_likelihood_sum": 100.44007873535156,
+        "score_from": 1,
+        "targets": 75
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:21422",
+        "domain": "wikipedia",
+        "end": 111,
+        "negative_log_likelihood_sum": 128.3193359375,
+        "score_from": 1,
+        "targets": 110
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:21482",
+        "domain": "wikipedia",
+        "end": 151,
+        "negative_log_likelihood_sum": 190.022216796875,
+        "score_from": 1,
+        "targets": 150
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:22110",
+        "domain": "wikipedia",
+        "end": 109,
+        "negative_log_likelihood_sum": 129.41400146484375,
+        "score_from": 1,
+        "targets": 108
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:22276",
+        "domain": "wikipedia",
+        "end": 131,
+        "negative_log_likelihood_sum": 139.42742919921875,
+        "score_from": 1,
+        "targets": 130
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:22346",
+        "domain": "wikipedia",
+        "end": 82,
+        "negative_log_likelihood_sum": 110.5949478149414,
+        "score_from": 1,
+        "targets": 81
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:22420",
+        "domain": "wikipedia",
+        "end": 65,
+        "negative_log_likelihood_sum": 121.85418701171875,
+        "score_from": 1,
+        "targets": 64
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:22678",
+        "domain": "wikipedia",
+        "end": 219,
+        "negative_log_likelihood_sum": 289.94256591796875,
+        "score_from": 1,
+        "targets": 218
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:23162",
+        "domain": "wikipedia",
+        "end": 100,
+        "negative_log_likelihood_sum": 84.6066665649414,
+        "score_from": 1,
+        "targets": 99
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:31189",
+        "domain": "wikipedia",
+        "end": 52,
+        "negative_log_likelihood_sum": 102.4478759765625,
+        "score_from": 1,
+        "targets": 51
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:31444",
+        "domain": "wikipedia",
+        "end": 46,
+        "negative_log_likelihood_sum": 83.41012573242188,
+        "score_from": 1,
+        "targets": 45
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:31476",
+        "domain": "wikipedia",
+        "end": 46,
+        "negative_log_likelihood_sum": 83.41012573242188,
+        "score_from": 1,
+        "targets": 45
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:31698",
+        "domain": "wikipedia",
+        "end": 30,
+        "negative_log_likelihood_sum": 68.20094299316406,
+        "score_from": 1,
+        "targets": 29
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:33593",
+        "domain": "wikipedia",
+        "end": 548,
+        "negative_log_likelihood_sum": 546.082763671875,
+        "score_from": 1,
+        "targets": 547
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:38623",
+        "domain": "wikipedia",
+        "end": 53,
+        "negative_log_likelihood_sum": 70.39507293701172,
+        "score_from": 1,
+        "targets": 52
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:41260",
+        "domain": "wikipedia",
+        "end": 375,
+        "negative_log_likelihood_sum": 101.94331359863281,
+        "score_from": 1,
+        "targets": 374
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:42508",
+        "domain": "wikipedia",
+        "end": 136,
+        "negative_log_likelihood_sum": 204.77549743652344,
+        "score_from": 1,
+        "targets": 135
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:43996",
+        "domain": "wikipedia",
+        "end": 455,
+        "negative_log_likelihood_sum": 496.59521484375,
+        "score_from": 1,
+        "targets": 454
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:44139",
+        "domain": "wikipedia",
+        "end": 37,
+        "negative_log_likelihood_sum": 69.29420471191406,
+        "score_from": 1,
+        "targets": 36
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:44566",
+        "domain": "wikipedia",
+        "end": 158,
+        "negative_log_likelihood_sum": 109.71398162841797,
+        "score_from": 1,
+        "targets": 157
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:45779",
+        "domain": "wikipedia",
+        "end": 38,
+        "negative_log_likelihood_sum": 79.58975219726562,
+        "score_from": 1,
+        "targets": 37
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:46308",
+        "domain": "wikipedia",
+        "end": 464,
+        "negative_log_likelihood_sum": 413.0519104003906,
+        "score_from": 1,
+        "targets": 463
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:47210",
+        "domain": "wikipedia",
+        "end": 178,
+        "negative_log_likelihood_sum": 201.8109893798828,
+        "score_from": 1,
+        "targets": 177
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:47524",
+        "domain": "wikipedia",
+        "end": 115,
+        "negative_log_likelihood_sum": 115.48150634765625,
+        "score_from": 1,
+        "targets": 114
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:47552",
+        "domain": "wikipedia",
+        "end": 82,
+        "negative_log_likelihood_sum": 118.51945495605469,
+        "score_from": 1,
+        "targets": 81
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:50690",
+        "domain": "wikipedia",
+        "end": 74,
+        "negative_log_likelihood_sum": 117.13322448730469,
+        "score_from": 1,
+        "targets": 73
+      },
+      {
+        "begin": 0,
+        "document_id": "wikipedia:8494",
+        "domain": "wikipedia",
+        "end": 44,
+        "negative_log_likelihood_sum": 84.60626220703125,
+        "score_from": 1,
+        "targets": 43
+      },
+      {
+        "begin": 0,
+        "document_id": "textbooks:grade10_page012_excerpt",
+        "domain": "textbooks",
+        "end": 227,
+        "negative_log_likelihood_sum": 233.63746643066406,
+        "score_from": 1,
+        "targets": 226
+      },
+      {
+        "begin": 0,
+        "document_id": "textbooks:grade10_page041_excerpt",
+        "domain": "textbooks",
+        "end": 301,
+        "negative_log_likelihood_sum": 301.652099609375,
+        "score_from": 1,
+        "targets": 300
+      },
+      {
+        "begin": 0,
+        "document_id": "textbooks:grade10_page042_excerpt",
+        "domain": "textbooks",
+        "end": 810,
+        "negative_log_likelihood_sum": 749.5213012695312,
+        "score_from": 1,
+        "targets": 809
+      },
+      {
+        "begin": 0,
+        "document_id": "books:0004",
+        "domain": "books",
+        "end": 578,
+        "negative_log_likelihood_sum": 592.1574096679688,
+        "score_from": 1,
+        "targets": 577
+      },
+      {
+        "begin": 0,
+        "document_id": "books:0111",
+        "domain": "books",
+        "end": 894,
+        "negative_log_likelihood_sum": 854.8170166015625,
+        "score_from": 1,
+        "targets": 893
+      }
+    ]
+  },
+  "runner_sha256": "d8e920b37308bc7f4c1985b4c0881228771c9087498239c0c5fbac20f5c32097",
+  "scoring": {
+    "append_one_document_eos": true,
+    "attention": "sdpa",
+    "batch": 1,
+    "context": 2048,
+    "dtype": "bfloat16",
+    "score_first_body_token": false,
+    "stride": 1024
+  },
+  "seconds": 45.92800241801888,
+  "status": "complete_matched_validation_perplexity_not_fluency_certification",
+  "training_performed": false
+}

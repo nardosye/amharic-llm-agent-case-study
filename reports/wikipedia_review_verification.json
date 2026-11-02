@@ -1,0 +1,12 @@
+{
+  "byte_identical_review_rerun": true,
+  "candidate_dataset_written": false,
+  "historical_bible_files_unchanged": 15,
+  "historical_wikipedia_files_unchanged": 13,
+  "input_dataset_id": "7e502c14d3b2f7ee0fe6c5a583c5a1927529c81b36951655c8a3dd604b6cff01",
+  "input_token_counts_recomputed": true,
+  "offline": true,
+  "publication_performed": false,
+  "review_report_sha256": "8c3aacbe456816fc1d9aa34a3bdc731ef6421cec4e3def4b841593290ec60b6d",
+  "training_performed": false
+}
