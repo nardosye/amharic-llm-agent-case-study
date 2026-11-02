@@ -32,4 +32,4 @@ Public readers can inspect the published evidence and recompute reported aggrega
 
 **Evidence cutoff:** November 1, 2026. Historical receipt fields describe their observation time; later reports supply later evaluation results. Preparing this snapshot does not rerun training or change historical evidence.
 
-Further training on the retained frozen corpus is future work. No model or dataset is released here, and publishing this GitHub documentation does not submit an article to Hugging Face or imply official Blog acceptance.
+Further training on the frozen corpus is planned.

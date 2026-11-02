@@ -8,11 +8,11 @@
       "sha256": "c3c9d505f0490ba1f9e7a51131457c444fb311f675a1d1af9dc8efa1d57efb8e"
     },
     "README.md": {
-      "bytes": 2928,
+      "bytes": 2758,
       "provenance": {
         "kind": "publication_document"
       },
-      "sha256": "bd6a9ef6150cd71d9cfb8e184596244fdae410ad36593d1a6a46ad1421925f5a"
+      "sha256": "77f65c5a99f0b33c36ce355404e8b69c088cd3dd5ba2db1e49d852cb865ad954"
     },
     "docs/agent-assisted-amharic-llm-case-study-appendix.md": {
       "bytes": 8244,
@@ -151,7 +151,7 @@
       "sha256": "dd164a0a9b1ce39ef16b1bd71a6b354ff2aaf866c4ab0b361c02dd83683e5b72"
     }
   },
-  "generated_at": "2026-11-02T02:51:50.068307+00:00",
+  "generated_at": "2026-11-02T03:05:22.543982+00:00",
   "manifest_self_excluded": true,
   "repository": "https://github.com/nardosye/amharic-llm-agent-case-study",
   "schema_version": 1,
